@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazi Ejajul</h1>
-<h3 align="center">Experienced software engineer with a strong background in creating and
-executing innovative software solutions to expedite business productivity.</h3>
+<h3 align="center">A Passionate Backend Developer from Bangladesh.</h3>
 
 - 💬 Ask me about **Python | Django | FastAPI | PHP | Laravel | Go | RDMS | Docker | AWS | Scrum | Back End**
 
