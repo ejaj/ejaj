@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazi Ejajul</h1>
-<h3 align="center">A passionate software Engineer from Bangladesh.</h3>
+<h3 align="center">A passionate software engineer from Bangladesh.</h3>
 
 - 💬 Ask me about **Python | Django | FastAPI | PHP | Laravel | Go | RDMS | Docker | AWS | Scrum | Back End**
 
