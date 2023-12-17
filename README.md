@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kazi Ejajul</h1>
 <h3 align="center">Experienced Software Engineer & AI/ML Expert</h3>
 
-- 💬 Ask me about **Python | Django | FastAPI | PHP | Laravel | Go | RDMS | Docker | AWS | Scrum | Back End**
+- 🧠 Skilled in **ML, Deep Learning, Neural Networks, Data Science, NLP, System Design, and Full Stack Development**
+- 🚀 Experienced in optimizing systems for efficiency and scalability
+- 💡 Passionate about predictive modeling, automation, AI-driven solutions, and exploring innovative approaches in NLP
 
-- 📫 How to reach me **kejaj.777@gmail.com**
+- 📫 Contact: **kejaj.777@gmail.com** | 📍 Hoje Taastrup, Denmark
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
