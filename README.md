@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazi Ejajul</h1>
-<h3 align="center">Data Science and Machine Learning enthusiast with strong Software Engineering background</h3>
+<h3 align="center">Experienced Software Engineer & AI/ML Expert</h3>
 
 - 💬 Ask me about **Python | Django | FastAPI | PHP | Laravel | Go | RDMS | Docker | AWS | Scrum | Back End**
 
