@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kazi Ejajul</h1>
 <h3 align="center">AI Specialist: Deep Learning, Machine Learning, Computer Vision, NLP | Senior Software Engineer</h3>
 
-- 🧠 Skills **ML, Deep Learning, Neural Networks, Data Science, NLP, Computer Vision, System Design, Full Stack Development.**
-- 🚀 Experienced in optimizing systems for efficiency and scalability.
-- 💡 Predictive modeling, automation, AI-driven solutions, innovative approaches in NLP and Computer Vision.
+<p align="center">
+As a passionate AI Specialist with a rich background in software engineering, I've dedicated the last few years to mastering the art and science of artificial intelligence. With expertise in ML, Deep Learning, and Computer Vision, I aim to solve complex problems and make technology more accessible and impactful. Let's explore the endless possibilities of AI together.
+</p>
 
-- 📫 Contact: **kejaj.777@gmail.com** | 📍 Hoje Taastrup, Denmark
+- 🧠 **Skilled in:** ML, Deep Learning, Neural Networks, Data Science, NLP, Computer Vision, System Design, Full Stack Development.
+- 🚀 **Passionate about:** Optimizing systems for efficiency and scalability, predictive modeling, automation, and AI-driven solutions.
+- 💡 **Innovating in:** NLP and Computer Vision to uncover new ways technology can enhance our lives.
+
+- 📫 **Reach out to me at:** kejaj.777@gmail.com | 📍 Hoje Taastrup, Denmark
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
