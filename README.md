@@ -49,4 +49,6 @@ As a passionate AI Specialist with a rich background in software engineering, I'
 <p>
 I'm always open to discussing new projects, ideas, or partnerships. Whether you're looking for advice, collaboration, or just want to say hi, feel free to reach out!
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaj&show_icons=true&locale=en&layout=compact" alt="ejaj" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaj&show_icons=true&locale=en&layout=compact" alt="ejaj" />
+</p>
