@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazi Ejajul</h1>
-<h3 align="center">Experienced Software Engineer & AI/ML Expert</h3>
+<h3 align="center">AI Specialist: Deep Learning, Machine Learning, Computer Vision, NLP | Senior Software Engineer</h3>
 
 - 🧠 Skills **ML, Deep Learning, Neural Networks, Data Science, NLP, Computer Vision, System Design, Full Stack Development.**
 - 🚀 Experienced in optimizing systems for efficiency and scalability.
