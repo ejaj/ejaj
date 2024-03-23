@@ -12,7 +12,7 @@ As a passionate AI Specialist with a rich background in software engineering, I'
 - 📫 **Reach out to me at:** kejaj.777@gmail.com | 📍 Hoje Taastrup, Denmark
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌟 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@kazi_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kazi_777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaziejajul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaziejajul" height="30" width="40" /></a>
@@ -21,7 +21,7 @@ As a passionate AI Specialist with a rich background in software engineering, I'
 <a href="https://www.leetcode.com/kazi_ejaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kazi_ejaj" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Core Technologies & Tools:</h3>
+<h3 align="left">💼 Core Technologies & Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40"/> </a>
@@ -45,4 +45,8 @@ As a passionate AI Specialist with a rich background in software engineering, I'
 
 </p>
 
+<h3 align="left">🤝 Let's Collaborate</h3>
+<p>
+I'm always open to discussing new projects, ideas, or partnerships. Whether you're looking for advice, collaboration, or just want to say hi, feel free to reach out!
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaj&show_icons=true&locale=en&layout=compact" alt="ejaj" /></p>
