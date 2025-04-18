@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kazi Ejajul</h1>
-<h3 align="center">AI Specialist: Deep Learning, Machine Learning, Computer Vision, NLP | Senior Software Engineer</h3>
+<h3 align="center">AI Engineer | Machine Learning Specialist | Computer Vision & NLP | Deep Learning | Full-Stack Software Engineer</h3>
 
 <p align="center">
-As a passionate AI Specialist with a rich background in software engineering, I've dedicated the last few years to mastering the art and science of artificial intelligence. With expertise in ML, Deep Learning, and Computer Vision, I aim to solve complex problems and make technology more accessible and impactful. Let's explore the endless possibilities of AI together.
+I'm a Machine Learning and Software Engineer focused on building scalable AI solutions across computer vision, NLP, and generative AI. I blend deep learning with full-stack and backend engineering to deliver robust, production-ready systems from model development to deployment.
 </p>
 
 - 🧠 **Skilled in:** ML, Deep Learning, Neural Networks, Data Science, NLP, Computer Vision, System Design, Full Stack Development.
